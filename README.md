@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Minimalist Aesthetic Signature Desk Banner -->
-  <img src="assets/banner.png" width="70%" alt="Tanish Gupta Banner" />
+  <img src="assets/banner.png" width="100%" alt="Tanish Gupta Banner" />
 
   <br/><br/>
 
