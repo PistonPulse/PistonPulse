@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 450" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+
+    <!-- Accent Glow Gradient -->
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#4FACFE" stop-opacity="0.8" />
+    </linearGradient>
+
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+
+    <!-- Blueprint Grid Pattern -->
+    <pattern id="grid-pattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2937" stroke-width="1" stroke-opacity="0.4" />
+      <path d="M 20 0 L 20 40 M 0 20 L 40 20" fill="none" stroke="#111827" stroke-width="0.5" stroke-opacity="0.3" />
+    </pattern>
+
+    <!-- Carbon Fiber Hex Pattern -->
+    <pattern id="carbon-pattern" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#0B0F19" />
+      <polygon points="0,0 5,0 2.5,5" fill="#131B2E" opacity="0.6" />
+      <polygon points="5,0 10,0 7.5,5" fill="#0D1424" opacity="0.6" />
+      <polygon points="2.5,5 7.5,5 5,10" fill="#17223B" opacity="0.6" />
+    </pattern>
+
+    <!-- Subtle Circuit Trace -->
+    <pattern id="circuit-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <path d="M10 10 H90 V90 H190 M90 50 H150 M50 90 V150" fill="none" stroke="#00F2FE" stroke-width="1" stroke-opacity="0.08" />
+      <circle cx="90" cy="10" r="3" fill="#00F2FE" fill-opacity="0.15" />
+      <circle cx="190" cy="90" r="3" fill="#00F2FE" fill-opacity="0.15" />
+      <circle cx="150" cy="50" r="3" fill="#00F2FE" fill-opacity="0.15" />
+    </pattern>
+  </defs>
+
+  <!-- Base Layers -->
+  <rect width="1500" height="450" fill="url(#bg-grad)" />
+  <rect width="1500" height="450" fill="url(#carbon-pattern)" opacity="0.7" />
+  <rect width="1500" height="450" fill="url(#grid-pattern)" />
+  <rect width="1500" height="450" fill="url(#circuit-pattern)" />
+
+  <!-- Top Accent Neon Bar -->
+  <rect x="0" y="0" width="1500" height="4" fill="url(#cyan-glow)" />
+
+  <!-- LEFT SIDE: TG LOGO BADGE -->
+  <g transform="translate(100, 125)">
+    <!-- Outer Glow Ring -->
+    <circle cx="100" cy="100" r="82" fill="none" stroke="#00F2FE" stroke-width="2" stroke-opacity="0.4" stroke-dasharray="8 4" />
+    <circle cx="100" cy="100" r="76" fill="#111827" stroke="#1F2937" stroke-width="3" />
+    
+    <!-- Tachometer Dial Accents -->
+    <path d="M 40,100 A 60,60 0 1,1 160,100" fill="none" stroke="#374151" stroke-width="4" stroke-linecap="round" />
+    <path d="M 40,100 A 60,60 0 0,1 140,50" fill="none" stroke="url(#cyan-glow)" stroke-width="5" stroke-linecap="round" />
+    
+    <!-- TG Monogram -->
+    <text x="100" y="116" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-weight="900" font-size="52" fill="#FFFFFF" text-anchor="middle" letter-spacing="-2">
+      T<tspan fill="#F59E0B">G</tspan>
+    </text>
+    
+    <!-- Bottom Micro Label -->
+    <rect x="65" y="148" width="70" height="18" rx="9" fill="#1F2937" />
+    <text x="100" y="161" font-family="'Fira Code', monospace" font-size="10" font-weight="700" fill="#00F2FE" text-anchor="middle">PISTON</text>
+  </g>
+
+  <!-- CENTER: NAME & SUBTITLE -->
+  <g transform="translate(380, 155)">
+    <!-- Main Title: TANISH GUPTA -->
+    <text x="0" y="55" font-family="'Montserrat', 'Arial Black', -apple-system, sans-serif" font-weight="900" font-size="56" fill="#FFFFFF" letter-spacing="4">
+      TANISH GUPTA
+    </text>
+    
+    <!-- Underline Glow Accent -->
+    <rect x="0" y="72" width="460" height="4" rx="2" fill="url(#cyan-glow)" />
+    
+    <!-- Subtitle Bullets -->
+    <text x="0" y="118" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="22" fill="#9CA3AF" letter-spacing="1">
+      AI Engineer <tspan fill="#00F2FE">•</tspan> Full Stack Developer <tspan fill="#00F2FE">•</tspan> Building Intelligent Systems
+    </text>
+    
+    <text x="0" y="152" font-family="'Fira Code', monospace" font-size="15" fill="#6B7280" letter-spacing="0.5">
+      // Specializing in Agentic AI, AI Security &amp; Enterprise Automation
+    </text>
+  </g>
+
+  <!-- RIGHT SIDE: CODE SNIPPET CARD -->
+  <g transform="translate(1020, 110)">
+    <!-- Code Window Container -->
+    <rect width="380" height="230" rx="12" fill="#0D1117" stroke="#1F2937" stroke-width="2" />
+    
+    <!-- Window Title Bar -->
+    <path d="M 0 12 A 12 12 0 0 1 12 0 L 368 0 A 12 12 0 0 1 380 12 L 380 36 L 0 36 Z" fill="#161B22" />
+    <circle cx="20" cy="18" r="5" fill="#EF4444" />
+    <circle cx="36" cy="18" r="5" fill="#F59E0B" />
+    <circle cx="52" cy="18" r="5" fill="#10B981" />
+    <text x="75" y="22" font-family="'Fira Code', monospace" font-size="12" fill="#6B7280">engineer.py</text>
+    
+    <!-- Code Content -->
+    <g transform="translate(25, 65)" font-family="'Fira Code', 'Consolas', monospace" font-size="15" font-weight="500">
+      <text x="0" y="0" fill="#F43F5E">while <tspan fill="#38BDF8">True</tspan>:</text>
+      <text x="25" y="30" fill="#38BDF8">build<tspan fill="#E2E8F0">()</tspan></text>
+      <text x="25" y="60" fill="#38BDF8">learn<tspan fill="#E2E8F0">()</tspan></text>
+      <text x="25" y="90" fill="#38BDF8">improve<tspan fill="#E2E8F0">()</tspan></text>
+      
+      <!-- Subtle Comment -->
+      <text x="0" y="132" font-size="13" fill="#4B5563" font-style="italic"># drive. code. repeat.</text>
+    </g>
+  </g>
+
+  <!-- Bottom Border Line -->
+  <rect x="0" y="446" width="1500" height="4" fill="#1F2937" />
+</svg>
