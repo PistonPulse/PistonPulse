@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Minimalist Aesthetic Signature Desk Banner -->
-  <img src="assets/banner.png" width="100%" alt="Tanish Gupta Banner" />
+  <img src="assets/banner.png" width="70%" alt="Tanish Gupta Banner" />
 
   <br/><br/>
 
@@ -14,7 +14,7 @@
 
   <br/>
 
-  <!-- Unified Social & Profile Views Row -->
+  <!-- Unified Social Row -->
   <p align="center">
     <a href="https://www.linkedin.com/in/tanish-gupta-03400730b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -65,7 +65,7 @@ while (alive) {
       <ul>
         <li><b>Education:</b> B.Tech in Computer Engineering @ K. J. Somaiya School of Engineering (Graduating 2027)</li>
         <li><b>Industry Experience:</b> Ex-Intern @ Capgemini &amp; Tata Communications</li>
-        <li><b>Certification:</b> Microsoft Certified: Azure AI Apps and Agents Developer Associate</li>
+        <li><b>Certification:</b> <a href="https://learn.microsoft.com/en-us/users/tanishgupta-4210/credentials/e18c356f61ba4415" target="_blank"><b>Microsoft Certified: Azure AI Apps and Agents Developer Associate ↗</b></a></li>
         <li><b>Location:</b> Mumbai, India</li>
       </ul>
     </td>
@@ -90,7 +90,9 @@ while (alive) {
   &nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <a href="https://learn.microsoft.com/en-us/users/tanishgupta-4210/credentials/e18c356f61ba4415" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_AI_Certified-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Microsoft_PyRIT-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
   &nbsp;
@@ -106,11 +108,22 @@ while (alive) {
 <table width="100%">
   <tr>
     <td align="center" width="16%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70" alt="Microsoft Azure" />
+      <a href="https://learn.microsoft.com/en-us/users/tanishgupta-4210/credentials/e18c356f61ba4415" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70" alt="Microsoft Azure" />
+      </a>
     </td>
     <td>
-      <h3>Microsoft Certified: Azure AI Apps and Agents Developer Associate</h3>
+      <h3>
+        <a href="https://learn.microsoft.com/en-us/users/tanishgupta-4210/credentials/e18c356f61ba4415" target="_blank">
+          Microsoft Certified: Azure AI Apps and Agents Developer Associate ↗
+        </a>
+      </h3>
       <p>Validates expertise in designing, building, and deploying enterprise AI solutions, Agentic AI workflows, Computer Vision, Text Analytics, and Azure AI infrastructure.</p>
+      <p>
+        <a href="https://learn.microsoft.com/en-us/users/tanishgupta-4210/credentials/e18c356f61ba4415" target="_blank">
+          <img src="https://img.shields.io/badge/Verify_Credential-Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Verify Credential"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
