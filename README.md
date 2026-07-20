@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Ultra-Cool Custom Header Banner Image -->
-  <img src="assets/header_banner.png" width="100%" alt="Tanish Gupta Banner" />
+  <!-- Minimalist Aesthetic Signature Desk Banner -->
+  <img src="assets/banner.png" width="100%" alt="Tanish Gupta Banner" />
 
   <br/><br/>
 
