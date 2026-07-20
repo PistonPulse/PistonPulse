@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Minimalist, Ultra-Sleek Modern Header Banner -->
+  <!-- Sleek Modern Montserrat Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=TANISH%20GUPTA&fontSize=42&font=Montserrat&fontColor=ffffff&fontAlignY=42" width="100%" alt="Tanish Gupta" />
 
   <br/><br/>
@@ -9,33 +9,31 @@
   </p>
 
   <p align="center">
-    Building scalable AI-powered applications, backend systems, and secure enterprise infrastructure.
+    <i>Specializing in Agentic AI Systems, AI Security (Microsoft PyRIT) &amp; Enterprise Automation</i>
   </p>
 
   <br/>
 
-  <!-- Unified Social & Profile Views Row -->
+  <!-- Social Badges Row (View Count Removed) -->
   <p align="center">
     <a href="https://www.linkedin.com/in/tanish-gupta-03400730b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:tanishgupta2326@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/PistonPulse">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=PistonPulse&color=0078d4&style=flat-square&label=VIEWS" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### 💻 Code Manifesto
+### 🏎️ Developer Manifesto &amp; Code Core
 
 ```javascript
 // drive. code. repeat.
@@ -58,26 +56,26 @@ while (alive) {
 
 ---
 
-## ⚡ Overview & Core Competencies
+## ⚡ Overview &amp; Core Competencies
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Background &amp; Credentials</h4>
+      <h3>🏎️ Performance &amp; Credentials</h3>
       <ul>
-        <li><b>Education:</b> B.Tech in Computer Engineering @ K. J. Somaiya School of Engineering (Graduating 2027)</li>
-        <li><b>Industry Experience:</b> Ex-Intern @ Capgemini &amp; Tata Communications</li>
-        <li><b>Certification:</b> Microsoft Certified: Azure AI Apps and Agents Developer Associate</li>
-        <li><b>Location:</b> Mumbai, India</li>
+        <li>🎓 <b>Education</b>: B.Tech Computer Engineering @ <b>K J Somaiya School of Engineering</b> (Graduating 2027)</li>
+        <li>🏢 <b>Industry Experience</b>: Ex-Intern @ <b>Capgemini</b> &amp; <b>Tata Communications</b></li>
+        <li>🏆 <b>Certification</b>: <b>Microsoft Certified: Azure AI Apps &amp; Agents Developer Associate</b></li>
+        <li>📍 <b>Base</b>: Mumbai, India 🇮🇳</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>Primary Technical Focus</h4>
+      <h3>⚙️ Engineering Arsenal</h3>
       <ul>
-        <li><b>Agentic AI:</b> Multi-Agent Systems &amp; Autonomous Workflows</li>
-        <li><b>AI Security:</b> LLM Red Teaming &amp; Vulnerability Testing (Microsoft PyRIT)</li>
-        <li><b>Backend Engineering:</b> High-Throughput REST APIs (FastAPI &amp; Node.js)</li>
-        <li><b>RAG Pipelines:</b> Retrieval-Augmented Generation &amp; Vector Databases</li>
+        <li>🤖 <b>Agentic AI &amp; Multi-Agent Systems</b></li>
+        <li>🛡️ <b>AI Security &amp; LLM Red Teaming (Microsoft PyRIT)</b></li>
+        <li>⚡ <b>High-Performance REST APIs (FastAPI &amp; Node.js)</b></li>
+        <li>🔍 <b>Retrieval-Augmented Generation (RAG &amp; Vector DBs)</b></li>
       </ul>
     </td>
   </tr>
