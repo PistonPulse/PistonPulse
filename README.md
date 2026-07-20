@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Minimalist, Ultra-Sleek Modern Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=TANISH%20GUPTA&fontSize=42&font=Montserrat&fontColor=ffffff&fontAlignY=42" width="100%" alt="Tanish Gupta" />
+  <!-- Ultra-Cool Custom Header Banner Image -->
+  <img src="assets/header_banner.png" width="100%" alt="Tanish Gupta Banner" />
 
   <br/><br/>
 
