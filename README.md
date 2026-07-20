@@ -178,10 +178,10 @@ while (alive) {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>TataSmartAgent</h3>
+      <h3>🤖 TataSmartAgent</h3>
       <p><b>Agentic AI Loan Underwriting Platform &bull; EY Techathon</b></p>
-      <p>Multi-agent AI platform simulating complete NBFC loan approval workflows with specialized agents for verification, eligibility, and risk scoring.</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>FastAPI</code> <code>Python</code> <code>Gemini</code> <code>MongoDB</code> <code>Firebase</code></p>
+      <p>Multi-agent AI platform simulating complete NBFC loan approval workflows with specialized agents for document verification, eligibility scoring, and underwriting.</p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>FastAPI</code> <code>Python</code> <code>Gemini</code> <code>MongoDB</code></p>
       <p>
         <a href="https://github.com/PistonPulse/TataSmartAgent"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
         &nbsp;
@@ -189,10 +189,10 @@ while (alive) {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>NeerNiti</h3>
+      <h3>💧 NeerNiti</h3>
       <p><b>AI Decision Support Platform &bull; SIH 2025</b></p>
       <p>Bilingual AI groundwater decision support system combining Hybrid RAG with official government datasets for district &amp; taluka-level recommendations.</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>FastAPI</code> <code>Python</code> <code>Gemini</code> <code>Cohere</code> <code>ChromaDB</code></p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>FastAPI</code> <code>Python</code> <code>Gemini</code> <code>ChromaDB</code></p>
       <p>
         <a href="https://github.com/PistonPulse/NeerNiti"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
         &nbsp;
@@ -201,39 +201,15 @@ while (alive) {
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>WebInspect</h3>
+    <td colspan="2" width="100%" valign="top">
+      <h3>🔍 WebInspect</h3>
       <p><b>AI-Powered Website Audit Platform</b></p>
-      <p>Full-stack website auditing platform evaluating SEO, accessibility, performance, and readability with Gemini-generated fix playbooks.</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Puppeteer</code></p>
+      <p>Full-stack website auditing platform evaluating SEO, accessibility, performance, and readability with Gemini-generated fix playbooks &amp; headless scraping.</p>
+      <p><b>Tech Stack:</b> <code>React</code> • <code>Vite</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code> • <code>Puppeteer</code> • <code>Gemini AI</code></p>
       <p>
         <a href="https://github.com/PistonPulse/WebInspect"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
         &nbsp;
         <a href="https://web-inspect-production.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>RupeeReady AI</h3>
-      <p><b>AI Financial Coach &bull; Mumbai Hacks</b></p>
-      <p>AI financial assistant tailored for India's gig economy featuring real-time Safe-to-Spend calculations and Smart Tax Vault.</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Framer Motion</code> <code>Recharts</code> <code>Gemini</code></p>
-      <p>
-        <a href="https://github.com/PistonPulse/RupeeReady-AI"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-        &nbsp;
-        <a href="https://rupeeready.web.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=firebase&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <h3>Secure Voting Application</h3>
-      <p><b>Enterprise Web Security &amp; Auth System</b></p>
-      <p>Hardened polling platform demonstrating modern web security controls, JWT authentication, CSRF defense, and rate limiting.</p>
-      <p><b>Tech Stack:</b> <code>Node.js</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>Helmet.js</code> • <code>JWT</code></p>
-      <p>
-        <a href="https://github.com/PistonPulse/Secure-Voting-Application"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-        &nbsp;
-        <a href="https://secure-voting-app.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=render&logoColor=white"/></a>
       </p>
     </td>
   </tr>
@@ -267,25 +243,37 @@ while (alive) {
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanish-gupta-03400730b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tanishgupta2326@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/PistonPulse">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+  <p>I am always open to discussing <b>AI Architecture</b>, <b>Backend Engineering</b>, <b>Open-Source Projects</b>, or Software Engineering opportunities.</p>
+  
+  <br/>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/tanish-gupta-03400730b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:tanishgupta2326@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/PistonPulse" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://ey-project-production-p8ym.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
 <br/>
 
+<hr/>
+
 <div align="center">
-  <p><i>"drive. code. repeat."</i></p>
-  <p>© 2026 Tanish Gupta &bull; PistonPulse</p>
+  <p><code>drive. code. repeat.</code></p>
+  <p><b>© 2026 Tanish Gupta &bull; PistonPulse</b></p>
 </div>
