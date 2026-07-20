@@ -27,8 +27,6 @@
     <a href="https://github.com/PistonPulse">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=PistonPulse&color=0078d4&style=flat-square&label=VIEWS" alt="Profile Views" />
   </p>
 
 </div>
