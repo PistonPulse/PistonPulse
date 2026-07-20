@@ -1,218 +1,246 @@
 <div align="center">
-
-  <!-- 1. Hero Banner (Custom SVG with Carbon Fiber & Code Snippet) -->
-  <img src="assets/hero-banner.svg" width="100%" alt="Tanish Gupta Hero Banner" />
+  <!-- Minimalist, Ultra-Sleek Modern Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=TANISH%20GUPTA&fontSize=42&font=Montserrat&fontColor=ffffff&fontAlignY=42" width="100%" alt="Tanish Gupta" />
 
   <br/><br/>
 
-  <!-- 2. Animated Typing -->
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F2FE&center=true&vCenter=true&width=500&height=40&lines=Building+AI+Systems;Full+Stack+Developer;Backend+Engineer;Microsoft+Certified;Always+Learning" alt="Animated Typing SVG" />
-    </a>
+    <code>AI ENGINEER</code> &bull; <code>FULL-STACK BACKEND ARCHITECT</code> &bull; <code>COMPUTER ENGINEERING STUDENT</code>
+  </p>
+
+  <p align="center">
+    Building scalable AI-powered applications, backend systems, and secure enterprise infrastructure.
   </p>
 
   <br/>
 
-  <!-- 3. Quick Profile Cards -->
-  <p align="center">
-    <code>🏢 Capgemini</code> &nbsp;&bull;&nbsp; 
-    <code>☁️ Microsoft Certified</code> &nbsp;&bull;&nbsp; 
-    <code>🎓 KJ Somaiya</code> &nbsp;&bull;&nbsp; 
-    <code>📍 Mumbai</code> &nbsp;&bull;&nbsp; 
-    <code>🚀 Open to 2027 Opportunities</code>
-  </p>
-
-  <br/>
-
-  <!-- 14. Connect Buttons -->
+  <!-- Unified Social & Profile Views Row -->
   <p align="center">
     <a href="https://www.linkedin.com/in/tanish-gupta-03400730b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    &nbsp;&nbsp;
-    <a href="https://ey-project-production-p8ym.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-    </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="mailto:tanishgupta2326@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    &nbsp;
+    <a href="https://github.com/PistonPulse">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=PistonPulse&color=0078d4&style=flat-square&label=VIEWS" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 💻 Code Manifesto
 
-I enjoy building AI-powered products, scalable backend systems, and secure enterprise applications.
+```javascript
+// drive. code. repeat.
+import { speed } from 'passion';
+import { drive } from 'soul';
 
-#### Currently Exploring
-- 🤖 **Agentic AI** &amp; Autonomous Workflows
-- 🛡️ **AI Security** &amp; LLM Red Teaming
-- ⚡ **Distributed Systems** &amp; Backend Engineering
-- ☁️ **Azure AI** &amp; Cloud Infrastructure
-- 🔍 **Retrieval-Augmented Generation (RAG)**
+function buildGreatThings() {
+  focus();
+  code();
+  coffee();
+  repeat();
+}
 
-> *Outside coding, you'll probably find me watching Formula 1, Top Gear, or working on automotive content.*
+while (alive) {
+  learn();
+  build();
+  ship();
+}
+```
 
 ---
 
-## 🏅 Certification Showcase
+## ⚡ Overview & Core Competencies
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Background &amp; Credentials</h4>
+      <ul>
+        <li><b>Education:</b> B.Tech in Computer Engineering @ K. J. Somaiya School of Engineering (Graduating 2027)</li>
+        <li><b>Industry Experience:</b> Ex-Intern @ Capgemini &amp; Tata Communications</li>
+        <li><b>Certification:</b> Microsoft Certified: Azure AI Apps and Agents Developer Associate</li>
+        <li><b>Location:</b> Mumbai, India</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Primary Technical Focus</h4>
+      <ul>
+        <li><b>Agentic AI:</b> Multi-Agent Systems &amp; Autonomous Workflows</li>
+        <li><b>AI Security:</b> LLM Red Teaming &amp; Vulnerability Testing (Microsoft PyRIT)</li>
+        <li><b>Backend Engineering:</b> High-Throughput REST APIs (FastAPI &amp; Node.js)</li>
+        <li><b>RAG Pipelines:</b> Retrieval-Augmented Generation &amp; Vector Databases</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="18%">
-        <a href="https://learn.microsoft.com/en-us/users/tanishgupta-4210/credentials/e18c356f61ba4415" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="75" alt="Microsoft Azure" />
-        </a>
-      </td>
-      <td>
-        <h3>
-          <a href="https://learn.microsoft.com/en-us/users/tanishgupta-4210/credentials/e18c356f61ba4415" target="_blank">
-            🏅 Microsoft Certified: Azure AI Apps and Agents Developer Associate ↗
-          </a>
-        </h3>
-        <p><b>Verified Skills:</b></p>
-        <p>
-          <code>✓ Agentic AI</code> &nbsp;&bull;&nbsp; 
-          <code>✓ Azure AI</code> &nbsp;&bull;&nbsp; 
-          <code>✓ Computer Vision</code> &nbsp;&bull;&nbsp; 
-          <code>✓ Text Analytics</code> &nbsp;&bull;&nbsp; 
-          <code>✓ Information Extraction</code>
-        </p>
-        <p>
-          <a href="https://learn.microsoft.com/en-us/users/tanishgupta-4210/credentials/e18c356f61ba4415" target="_blank">
-            <img src="https://img.shields.io/badge/Verify_Credential-Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Verify Credential"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_PyRIT-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 </div>
+
+<br/>
 
 ---
 
-## 💼 Professional Experience Timeline
+## 🏆 Microsoft Certification Highlight
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70" alt="Microsoft Azure" />
+    </td>
+    <td>
+      <h3>Microsoft Certified: Azure AI Apps and Agents Developer Associate</h3>
+      <p>Validates expertise in designing, building, and deploying enterprise AI solutions, Agentic AI workflows, Computer Vision, Text Analytics, and Azure AI infrastructure.</p>
+    </td>
+  </tr>
+</table>
 
-```
-  2025
-   │
-   ├── 🏢 Tata Communications (Project Trainee - AIOps)
-   │     └── Built NLP & server command automation platform using spaCy & Mistral
-   │
-   ├── 🏆 Smart India Hackathon 2025
-   │     └── Qualified College Round with NeerNiti AI Groundwater Platform
-   │
-  2026
-   │
-   ├── 🏢 Capgemini Technology Services (Digital Analyst Intern)
-   │     └── Engineered SentinelAI AI Security & PyRIT Red Teaming platform
-   │
-   └── 🏅 Microsoft Certification
-         └── Azure AI Apps and Agents Developer Associate Certified
-```
+<br/>
 
-</div>
+---
+
+## 💼 Professional Experience
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h3>Capgemini Technology Services India &nbsp;|&nbsp; <code>Digital Analyst Intern</code></h3>
+      <p><b>May 2026 – July 2026</b></p>
+      <ul>
+        <li>Developed an enterprise <b>AI Security Testing Platform</b> evaluating LLMs against security vulnerabilities.</li>
+        <li>Integrated <b>Microsoft PyRIT (Python Risk Identification Tool)</b> to automate AI red teaming workflows.</li>
+        <li>Automated security test suites for Prompt Injection, Jailbreak Attacks, Information Leakage, Hallucinations, and Toxicity.</li>
+        <li>Built high-performance REST APIs with <b>FastAPI</b> and an interactive dashboard in <b>React</b>.</li>
+      </ul>
+      <p>
+        <b>Tech Stack:</b> 
+        <code>Python</code> • <code>FastAPI</code> • <code>React</code> • <code>Microsoft PyRIT</code> • <code>Groq</code> • <code>Llama 3.1</code> • <code>REST APIs</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>Tata Communications Ltd. &nbsp;|&nbsp; <code>Project Trainee (AIOps)</code></h3>
+      <p><b>May 2025 – July 2025</b></p>
+      <ul>
+        <li>Developed a secure enterprise automation system processing server command requests via email.</li>
+        <li>Engineered an NLP pipeline using <b>spaCy</b> and <b>Mistral LLM</b> to extract intent and operational entities from email content.</li>
+        <li>Integrated <b>Microsoft Graph API</b> to automate email processing, administrator approvals, and command execution monitoring.</li>
+        <li>Built a real-time risk classification engine to evaluate server operations safety prior to execution.</li>
+      </ul>
+      <p>
+        <b>Tech Stack:</b> 
+        <code>Python</code> • <code>spaCy</code> • <code>Mistral LLM</code> • <code>Microsoft Graph API</code> • <code>BeautifulSoup</code> • <code>JSON</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 TataSmartAgent
-> **Agentic AI Loan Underwriting Platform &bull; EY Techathon**
->
-> Multi-agent AI platform simulating complete NBFC loan approval workflows with specialized agents for verification, eligibility assessment, and risk scoring.
-
-`React` &bull; `FastAPI` &bull; `Gemini` &bull; `MongoDB`
-
-[🚀 Live Demo](https://ey-project-production-p8ym.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp; [📦 Repository](https://github.com/PistonPulse/TataSmartAgent)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TataSmartAgent</h3>
+      <p><b>Agentic AI Loan Underwriting Platform &bull; EY Techathon</b></p>
+      <p>Multi-agent AI platform simulating complete NBFC loan approval workflows with specialized agents for verification, eligibility, and risk scoring.</p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>FastAPI</code> <code>Python</code> <code>Gemini</code> <code>MongoDB</code> <code>Firebase</code></p>
+      <p>
+        <a href="https://github.com/PistonPulse/TataSmartAgent"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://ey-project-production-p8ym.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NeerNiti</h3>
+      <p><b>AI Decision Support Platform &bull; SIH 2025</b></p>
+      <p>Bilingual AI groundwater decision support system combining Hybrid RAG with official government datasets for district &amp; taluka-level recommendations.</p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>FastAPI</code> <code>Python</code> <code>Gemini</code> <code>Cohere</code> <code>ChromaDB</code></p>
+      <p>
+        <a href="https://github.com/PistonPulse/NeerNiti"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://neerniti-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>WebInspect</h3>
+      <p><b>AI-Powered Website Audit Platform</b></p>
+      <p>Full-stack website auditing platform evaluating SEO, accessibility, performance, and readability with Gemini-generated fix playbooks.</p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Puppeteer</code></p>
+      <p>
+        <a href="https://github.com/PistonPulse/WebInspect"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://web-inspect-production.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>RupeeReady AI</h3>
+      <p><b>AI Financial Coach &bull; Mumbai Hacks</b></p>
+      <p>AI financial assistant tailored for India's gig economy featuring real-time Safe-to-Spend calculations and Smart Tax Vault.</p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Framer Motion</code> <code>Recharts</code> <code>Gemini</code></p>
+      <p>
+        <a href="https://github.com/PistonPulse/RupeeReady-AI"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://rupeeready.web.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=firebase&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3>Secure Voting Application</h3>
+      <p><b>Enterprise Web Security &amp; Auth System</b></p>
+      <p>Hardened polling platform demonstrating modern web security controls, JWT authentication, CSRF defense, and rate limiting.</p>
+      <p><b>Tech Stack:</b> <code>Node.js</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>Helmet.js</code> • <code>JWT</code></p>
+      <p>
+        <a href="https://github.com/PistonPulse/Secure-Voting-Application"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://secure-voting-app.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=render&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-### 🌍 NeerNiti
-> **AI Decision Support Platform &bull; Smart India Hackathon 2025**
->
-> Bilingual AI groundwater decision platform combining Hybrid RAG with official government datasets for district &amp; taluka-level recommendations.
-
-`React` &bull; `FastAPI` &bull; `Gemini` &bull; `ChromaDB`
-
-[🚀 Live Demo](https://neerniti-one.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp; [📦 Repository](https://github.com/PistonPulse/NeerNiti)
-
-<br/>
-
-### 🔍 WebInspect
-> **AI-Powered Website Audit Platform**
->
-> Full-stack website auditing platform evaluating SEO, accessibility, performance, and readability with Gemini-generated optimization playbooks.
-
-`React` &bull; `Node.js` &bull; `Gemini` &bull; `Puppeteer`
-
-[🚀 Live Demo](https://web-inspect-production.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp; [📦 Repository](https://github.com/PistonPulse/WebInspect)
-
-<br/>
-
-### 💡 RupeeReady AI
-> **AI Financial Coach &bull; Mumbai Hacks**
->
-> AI financial assistant tailored for India's gig economy featuring real-time Safe-to-Spend calculations and Smart Tax Vault.
-
-`React` &bull; `Tailwind` &bull; `Framer Motion` &bull; `Gemini`
-
-[🚀 Live Demo](https://rupeeready.web.app/) &nbsp;&nbsp;|&nbsp;&nbsp; [📦 Repository](https://github.com/PistonPulse/RupeeReady-AI)
-
-<br/>
-
-### 🛡️ Secure Voting Application
-> **Enterprise Web Security &amp; Auth System**
->
-> Hardened polling platform demonstrating modern web security controls, JWT authentication, CSRF defense, and rate limiting.
-
-`Node.js` &bull; `Express` &bull; `MongoDB` &bull; `Helmet`
-
-[🚀 Live Demo](https://secure-voting-app.onrender.com/) &nbsp;&nbsp;|&nbsp;&nbsp; [📦 Repository](https://github.com/PistonPulse/Secure-Voting-Application)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack &amp; Tools
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=python,js,sql,html,css&theme=dark" alt="Languages" />
-
-#### Artificial Intelligence
-<img src="https://skillicons.dev/icons?i=azure,gcp&theme=dark" alt="AI & Cloud" />
-<p>
-  <code>Google Gemini</code> &bull; 
-  <code>Microsoft PyRIT</code> &bull; 
-  <code>spaCy</code> &bull; 
-  <code>Mistral LLM</code> &bull; 
-  <code>RAG &amp; ChromaDB</code>
-</p>
-
-#### Backend
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend" />
-
-#### Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend" />
-
-#### Database
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres&theme=dark" alt="Database" />
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=PistonPulse&theme=darkhub&column=6&margin-w=10" alt="GitHub Trophies" width="100%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,nodejs,express,react,vite,tailwind,mongodb,postgres,firebase,azure,gcp,git,github,postman,figma&perline=10&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-## 📊 GitHub Stats &amp; Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PistonPulse&theme=github-dark&bg_color=0d1117&color=0078d4&line=0078d4&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="100%" />
@@ -224,26 +252,29 @@ I enjoy building AI-powered products, scalable backend systems, and secure enter
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PistonPulse&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak" width="95%" />
 </div>
 
----
-
-## ⭐ Beyond Code
-
-- 🏎️ **Formula 1**
-- 🚗 **Automotive Engineering**
-- 🎥 **Content Creation**
-- 📷 **Photography**
-- 🎬 **Cinematic Editing**
-- ☕ **Coffee**
+<br/>
 
 ---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanish-gupta-03400730b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tanishgupta2326@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PistonPulse">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <br/>
 
 <div align="center">
-  <p><i>"Building software with the precision of engineering and the curiosity of exploration."</i></p>
+  <p><i>"drive. code. repeat."</i></p>
   <p>© 2026 Tanish Gupta &bull; PistonPulse</p>
-</div>
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=PistonPulse&color=0078d4&style=flat-square&label=VIEWS" alt="Visitor Counter" />
 </div>
