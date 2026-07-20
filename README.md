@@ -1,55 +1,82 @@
 <div align="center">
-  <!-- Static Visual Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078d4,100:0366d6&height=180&section=header&text=Tanish%20Gupta&fontSize=46&fontColor=ffffff&fontAlignY=36" width="100%" alt="Header Banner" />
-  
+
+  <!-- Dark Slate/Gold Signature Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,40:111827,100:090d16&height=170&section=header&text=🏎️%20TANISH%20GUPTA&fontSize=48&fontColor=ffffff&fontAlignY=36" width="100%" alt="Tanish Gupta Header" />
+
+  <br/>
+
   <p align="center">
-    <b>AI Engineer &bull; Full-Stack Backend Architect &bull; Computer Engineering Student</b>
-  </p>
-  
-  <p align="center">
-    <i>Specializing in Agentic AI Systems, AI Security &amp; Enterprise Automation</i>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2500&color=F59E0B&center=true&vCenter=true&width=620&height=40&lines=%2F%2F+drive.+code.+repeat.;import+%7B+speed+%7D+from+'passion';;import+%7B+drive+%7D+from+'soul';;while+(alive)+%7B+learn();+build();+ship();+%7D" alt="Code Mantra" />
   </p>
 
-  <!-- Social Links & Profile Counter -->
+  <p align="center">
+    <b>AI Engineer &bull; Full-Stack Backend Architect &bull; Final-Year CE @ K J Somaiya ('27)</b>
+  </p>
+
+  <p align="center">
+    <i>Specializing in Agentic AI Systems, AI Security (Microsoft PyRIT) &amp; Enterprise Automation</i>
+  </p>
+
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/tanish-gupta-03400730b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:tanishgupta2326@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/PistonPulse">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=PistonPulse&color=0078d4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=PistonPulse&color=f59e0b&style=flat-square&label=SYSTEM_ACCESS_COUNT" alt="Profile Views" />
   </p>
+
 </div>
 
-<hr />
+---
 
-## ⚡ Quick Highlight Card
+### ⚡ Developer Manifesto &amp; Code Core
+
+```javascript
+// drive. code. repeat.
+import { speed } from 'passion';
+import { drive } from 'soul';
+
+function buildGreatThings() {
+  focus();
+  code();
+  coffee();
+  repeat();
+}
+
+while (alive) {
+  learn();
+  build();
+  ship();
+}
+```
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Background &amp; Credentials</h3>
+      <h3>🏎️ Performance &amp; Credentials</h3>
       <ul>
         <li>🎓 <b>Education</b>: B.Tech Computer Engineering @ <b>K J Somaiya School of Engineering</b> (Graduating 2027)</li>
         <li>🏢 <b>Industry Experience</b>: Ex-Intern @ <b>Capgemini</b> &amp; <b>Tata Communications</b></li>
         <li>🏆 <b>Certification</b>: <b>Microsoft Certified: Azure AI Apps &amp; Agents Developer Associate</b></li>
-        <li>📍 <b>Location</b>: Mumbai, India 🇮🇳</li>
+        <li>📍 <b>Base</b>: Mumbai, India 🇮🇳</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Primary Expertise</h3>
+      <h3>⚙️ Engineering Arsenal</h3>
       <ul>
         <li>🤖 <b>Agentic AI &amp; Multi-Agent Systems</b></li>
-        <li>🛡️ <b>AI Security Testing &amp; LLM Red Teaming (Microsoft PyRIT)</b></li>
+        <li>🛡️ <b>AI Security &amp; LLM Red Teaming (Microsoft PyRIT)</b></li>
         <li>⚡ <b>High-Performance REST APIs (FastAPI &amp; Node.js)</b></li>
         <li>🔍 <b>Retrieval-Augmented Generation (RAG &amp; Vector DBs)</b></li>
       </ul>
@@ -216,13 +243,13 @@
 ## 📊 GitHub Contribution Graph &amp; Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PistonPulse&theme=github-dark&bg_color=0d1117&color=0078d4&line=0078d4&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PistonPulse&theme=github-dark&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PistonPulse&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PistonPulse&theme=tokyonight&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak" width="95%" />
 </div>
 
 <br/>
@@ -248,6 +275,6 @@
 <br/>
 
 <div align="center">
-  <p><i>"Building intelligent, scalable, and secure systems for the future of software engineering."</i></p>
+  <p><i>"drive. code. repeat."</i></p>
   <p>© 2026 Tanish Gupta • PistonPulse</p>
 </div>
